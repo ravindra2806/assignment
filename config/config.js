@@ -4,7 +4,7 @@ var config = {};
 config.db = {};
 config.db.host = '127.0.0.1';
 config.db.userName = 'root';
-config.db.password = 'epicsystem';
+config.db.password = 'root';
 config.db.dbName = 'assessment';
 
 config.invalidUser = 'Please enter valid email and password.';
